@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "0da0f73c793b0326",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8eb794361caf96f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acffea37caee1b5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Second Note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e07a8d32e8127aaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dead46765a57366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2133bfcf2681f8fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e732ce4bbce4a8c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e8dc5656ad5d28d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9c964e636e2c8b4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1da4f978bc34c136",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81bf7527f3035450",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "example-note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for example-note"
+            }
+          },
+          {
+            "id": "d301d0cfda413971",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "example-note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from example-note"
+            }
+          },
+          {
+            "id": "1d85f4ea8bf992eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4cdbb19d69384f37",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Second Note.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Second Note"
+            }
+          },
+          {
+            "id": "a9a51735458805ee",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "3c4bcc3ddba08a14",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "acffea37caee1b5b",
+  "lastOpenFiles": [
+    "First Init",
+    "Second Note.md",
+    "README.md",
+    "Untitled.base",
+    "Quick Example.md",
+    "Main Note.md",
+    "example-note.md",
+    "ObsidianVault/Areas/Personal Development.md",
+    "ObsidianVault/Areas/Weekly Review.md",
+    "ObsidianVault/Daily Notes/2024-01-14.md",
+    "ObsidianVault/Resources/Zettelkasten Method.md",
+    "ObsidianVault/Templates/Meeting Template.md",
+    "ObsidianVault/Templates/Daily Note Template.md",
+    "ObsidianVault/Resources/Book Notes.md",
+    "ObsidianVault/Resources/Obsidian Tips.md",
+    "ObsidianVault/Daily Notes/2024-01-15.md",
+    "ObsidianVault/Projects/Project Alpha.md",
+    "ObsidianVault/Home.md",
+    "ObsidianVault/Projects/Project Alpha.md.tmp.89111.1758738398445",
+    "ObsidianVault/Templates",
+    "ObsidianVault/Resources",
+    "ObsidianVault/Projects",
+    "ObsidianVault/Archive",
+    "ObsidianVault/Daily Notes",
+    "ObsidianVault/Areas",
+    "ObsidianVault",
+    "CLAUDE.md",
+    "Obsidian-101.md",
+    "Notion Export/Office 1a7a95f471b080bf9cafc2445f9a82ea.md",
+    "Notion Export/Office 1a7a95f471b080bf9cafc2445f9a82ea/N Office 231a95f471b080d29f1ad4faa6284380.md",
+    "Notion Export/Office 1a7a95f471b080bf9cafc2445f9a82ea/Archive 232a95f471b080a99f76ff27bb17360e/[Nastya] Students47 207a95f471b08090909cee45ae32403b/Outreaches 1cba95f471b0802bb366e925fd972ba8.md",
+    "Notion Export/Office 1a7a95f471b080bf9cafc2445f9a82ea/N Office 231a95f471b080d29f1ad4faa6284380/🧧 Vision 228a95f471b0808f8799d95e144ac9d0/🧧 September, 15 278a95f471b080fd8d36f59b666ee3f9.md",
+    "Notion Export/Office 1a7a95f471b080bf9cafc2445f9a82ea/N Office 231a95f471b080d29f1ad4faa6284380/🧧 Vision 228a95f471b0808f8799d95e144ac9d0.md",
+    "extensions/DataView/README.md",
+    "extensions/DataView",
+    "Notion Export/Office 1a7a95f471b080bf9cafc2445f9a82ea/N Office 231a95f471b080d29f1ad4faa6284380/Our ПРОРЫВ Journey 223a95f471b08024be4ae63d6d32dce4.md"
+  ]
+}

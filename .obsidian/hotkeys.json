@@ -1,0 +1,14 @@
+{
+  "editor:fold-all": [
+    {
+      "modifiers": ["Mod"],
+      "key": "0"
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": ["Mod"],
+      "key": "J"
+    }
+  ]
+}
