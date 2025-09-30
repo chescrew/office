@@ -25,14 +25,14 @@
             "id": "edc921ee28649ddf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "gosha/example.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "example"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -203,14 +203,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "edc921ee28649ddf",
   "lastOpenFiles": [
-    "Main Note.md",
     "gosha/example.md",
+    "Main Note.md",
     "gosha",
     "untitled folder",
     "Quick Example.md",
