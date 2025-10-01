@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "students/gosha/calls/250925.md",
+                "file": "TTS/dialog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250925"
+              "title": "dialog"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,14 +220,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d5a73fffae45332",
+  "active": "a5a00922506ec5d3",
   "lastOpenFiles": [
+    "TTS/phrases.md",
     "TTS/monolog.md",
     "TTS/dialog.md",
     "prompts/power-dialog.md",
     "GUIDE.md",
     "TTS",
-    "TTS/phrases.md",
     "students/gosha/1.transcription.md",
     "Second Note.md",
     "students/gosha/1.better.md",
